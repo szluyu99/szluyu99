@@ -23,3 +23,8 @@
 > A Golang library that generates Restful CRUD APIs based on configuration, complex queries can be implemented based on the rules passed in through request parameters.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=restsend&repo=gormpher)](https://github.com/restsend/gormpher)
+
+🪛 一个简化后端开发的 Golang 工具库：集成 gormpher, 内置用户 + 权限 + 鉴权模块, 动态 CURD 等。
+> A Golang utility library for simplifying backend development: integrates gormpher, built-in user+permission+authentication modules, dynamic CURD, etc.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szluyu99&repo=rabbit)](https://github.com/szluyu99/rabbit)
