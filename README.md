@@ -28,3 +28,9 @@
 > A Golang utility library for simplifying backend development: integrates gormpher, built-in user+permission+authentication modules, dynamic CURD, etc.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szluyu99&repo=rabbit)](https://github.com/szluyu99/rabbit)
+
+ZYSwiftUIFrame，一个的 SwiftUI 示例项目（自带 Golang 服务端代码），之前偶然接触并学习 SwiftUI 后产出的一个项目（不确定现在是否能正常运行🥹）
+> a simple SwiftUI project (with built-in Golang server-side code) that was created after accidentally learning SwiftUI. It is uncertain whether it can still run properly now.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=szluyu99&repo=ZYSwiftUIFrame)](https://github.com/szluyu99/ZYSwiftUIFrame)
+
