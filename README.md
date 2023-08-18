@@ -1,8 +1,6 @@
 一个后端程序员 (Golang + Java)，懂一点前端 (Vue)，略懂一点移动端 (Flutter + Swift)。
-> A backend programmer (Golang + Java) who knows a bit of frontend (Vue) and has some knowledge of mobile development (Flutter + Swift).
 
-| ![zhenyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=szluyu99&show_icons=true) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szluyu99&layout=compact)](https://github.com/szluyu99) | 
-| ------------- | ------------- |
+![zhenyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=szluyu99&show_icons=true)
 
 最近研究的一些项目：
 
