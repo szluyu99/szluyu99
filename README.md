@@ -1,10 +1,5 @@
-一个后端程序员 (Golang + Java)，懂一点前端 (Vue)，略懂一点移动端 (Flutter + Swift)。
-
-对计算机技术充满兴趣，愿意并且希望可以研究各个领域的技术。希望可以当一个能够坚持终身学习的人！
-
 ![zhenyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=szluyu99&show_icons=true)
 
-最近研究的一些项目：
 
 ✏️ 基于 Golang 和 Vue3 的全栈博客，包含博客前台、博客后台、博客后端
 > A full-stack blog built with Golang and Vue3, including a blog front-end, a blog back-end, and a blog server.
