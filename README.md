@@ -10,3 +10,6 @@
 
 survior，一款在线的网页小游戏
 - [https://szluyu99.github.io/survivor/](https://szluyu99.github.io/survivor/)
+
+中国地理图谱
+- [https://szluyu99.github.io/china-geo](https://szluyu99.github.io/china-geo)
