@@ -8,6 +8,9 @@
 🌱 UnoCSS UI, 一个基于 UnoCSS 的 Vue3 组件库
 - [https://cherryful.github.io/unocss-ui](https://cherryful.github.io/unocss-ui)
 
+Mud 老游戏修复，网页版
+- [https://szluyu99.github.io/mud/](https://szluyu99.github.io/mud/)
+
 survior，一款在线的网页小游戏
 - [https://szluyu99.github.io/survivor/](https://szluyu99.github.io/survivor/)
 
